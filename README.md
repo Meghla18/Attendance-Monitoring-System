@@ -103,17 +103,17 @@ Step 1 : **Configure the Database**
 
 Step 2 : **Configure the Database Connection in Java**
 
-Update the database connection settings in the DatabaseConnection.java file:
+    Update the database connection settings in the DatabaseConnection.java file:
 
-package com.attendance;
+    package com.attendance;
 
-import java.sql.Connection;
+    import java.sql.Connection;
 
-import java.sql.DriverManager;
+    import java.sql.DriverManager;
 
-import java.sql.SQLException;
+    import java.sql.SQLException;
 
-public class DatabaseConnect {
+    public class DatabaseConnect {
     
     private static final String URL = "jdbc:mysql://localhost:3306/attendance_db";
    
