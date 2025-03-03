@@ -5,7 +5,6 @@
 
 
 The Attendance Management System is a Java-based desktop application designed for efficiently managing attendance records of students or employees. The system is built using **Java Swing** for an interactive 
-
 **graphical user interface (GUI)** and **JDBC** for database operations, with **MySQL** serving as the backend database. The project is developed and executed in **Visual Studio Code (VS Code).**
 
 **This system allows administrators to manage user data, mark attendance, view reports, and store attendance records in a structured manner.**
