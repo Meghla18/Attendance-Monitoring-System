@@ -17,11 +17,9 @@ The Attendance Management System is a Java-based desktop application designed fo
 
 **✔ Student/Employee Management** – Add, update, and delete records.
 
-**✔ Attendance Marking** – Record daily attendance with status (Present/Absent).
-
-**✔ Data Retrieval** – Search and view attendance records.
 
 **✔ Database Integration** – MySQL connectivity using JDBC.
+
 
 **✔ User-Friendly GUI** – Built with Java Swing for seamless interaction.
 
