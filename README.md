@@ -14,7 +14,6 @@ The Attendance Management System is a Java-based desktop application designed fo
 
 **Key Features**
 
-**✔ User Authentication** – Secure admin login system.
 
 **✔ Student/Employee Management** – Add, update, and delete records.
 
@@ -26,7 +25,7 @@ The Attendance Management System is a Java-based desktop application designed fo
 
 **✔ User-Friendly GUI** – Built with Java Swing for seamless interaction.
 
-**✔ Report Generation** – Generate and display attendance records.
+
 
 
 ---
@@ -41,7 +40,7 @@ The Attendance Management System is a Java-based desktop application designed fo
  
  **4. MySQL** - Database for storing attendance records.
  
- **5. Visual Studio Code (VS Code)** - Development environment. 
+ **5. Visual Studio Code (VS Code)** - Development environment (IDE).
  
  **6. MySQL Connector JAR**  - JDBC driver for database connection. 
 
@@ -164,7 +163,7 @@ Step 3 : **Run the Project in VS Code**
 
      javac AttendanceSystem.java  
 
-     java AttendanceSystem
+     java AttendanceSystem (Can be run through the main method directly too)
 
 
 ---
@@ -179,7 +178,7 @@ Step 3 : **Run the Project in VS Code**
 
 🔹 Graphical Analytics – Represent attendance data using graphs and charts.
 
-🔹 Mobile App Integration – Extend functionality to a mobile platform.
+🔹 Mobile App Integration – Extend functionality to a mobile platform using SpringBoot. 
 
 
 ---
